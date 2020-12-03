@@ -5,6 +5,7 @@
 .bg-color-name-title {
     background-color: #676767;
 }
+div#map {min-height: 360px;}
 
 .bg-color-three-reasons {
     background-color: #ffffff;
